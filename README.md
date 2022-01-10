@@ -1,5 +1,5 @@
 # LSFP_For_iMRI
- Code for our work:"Low-Rank and Framelet Based Sparsity Decomposition for Interventional MRI Reconstruction".
+ Code for our work: "Low-Rank and Framelet Based Sparsity Decomposition for Interventional MRI Reconstruction".
 # Related Paper
 If you use this code, please refer to:
 
