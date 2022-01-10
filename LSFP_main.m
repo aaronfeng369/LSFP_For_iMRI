@@ -6,17 +6,17 @@ clc; clear; close all;
 addpath(genpath('./functions'));
 
 %% load data
-load('IMRI_Simu2_400.mat'); 
+load('IMRI_simu_example.mat'); 
 Nsample = size(kdata,1); % number of sampling in readout direction
 overSamp = 2; % oversampling in readout direction
 mC = 0; % parameter for cropping data
 
 % parameters
-Ntviews = 2000; % total number of spokes
+Ntviews = 1000; % total number of spokes
 Nspokes = 10; % spokes per frame
 Ng = 5; % frames per group
 
-tp = 30; % specific group for quantitative evaluation
+tp = 15; % specific group for quantitative evaluation
 RA = 'LSFP'; % reconstruction algorithm
 
 %% Reconstruction
