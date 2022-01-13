@@ -3,6 +3,6 @@
 # Related Paper
 If you use this code, please refer to:
 
-Z. He, Y.-N. Zhu, S. Qiu, X. Zhang, and Y. Feng, "Low-Rank and Framelet Based Sparsity Decomposition for Interventional MRI Reconstruction," https://ui.adsabs.harvard.edu/abs/2021arXiv210711947H, [July 01, 2021].
+Z. He et al., "Low-Rank and Framelet Based Sparsity Decomposition for Interventional MRI Reconstruction," in IEEE Transactions on Biomedical Engineering, doi: 10.1109/TBME.2022.3142129.
 
 
